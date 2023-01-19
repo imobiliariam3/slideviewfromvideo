@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": 2035,
+    "nome": "Apartamento",
+    "bairro": "Tarumã",
+    "descricao": "Apartamentos novos disponíveis à venda no Residencial Tarumã em Santa Terezinha de Itaipu. Parcelamento direto com 30% de entrada e saldo restante em até 96x.",
+    "urlImage": "https://i.pinimg.com/originals/71/71/9c/71719c7021f269132cb2f82e8487b2c6.jpg",
+    "tamanho": "208,50 M²",
+    "quarto": 2,
+    "suite": 1,
+    "sala": 1,
+    "edicula": 1,
+    "cozinha": 1,
+    "banheiro": 1,
+    "lavanderia":1,
+    "garagem": 1
+  },
+  {
+    "codigo": 659,
+    "nome": "Casa",
+    "bairro": "Tarumã",
+    "descricao": "Apartamentos novos disponíveis à venda no Residencial Tarumã em Santa Terezinha de Itaipu. Parcelamento direto com 30% de entrada e saldo restante em até 96x.",
+    "urlImage": "https://i.pinimg.com/originals/71/71/9c/71719c7021f269132cb2f82e8487b2c6.jpg",
+    "tamanho": "70,50 M²",
+    "quarto": 2,
+    "suite": 1,
+    "sala": 1,
+    "edicula": 0,
+    "cozinha": 1,
+    "banheiro": 1,
+    "lavanderia":0,
+    "garagem": 1
+  }
+]
